@@ -1,0 +1,4 @@
+case_id,query,expected_product,expected_type
+macbook,MacBook,MacBook,product
+iphone,iPhone,iPhone,product
+no_results,zzzxqnonexistent987,,no_results

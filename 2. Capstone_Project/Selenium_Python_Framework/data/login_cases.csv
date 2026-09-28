@@ -1,0 +1,3 @@
+case_id,email,password,expected_message
+invalid_credentials,nonexistent.qa.48293@example.com,IncorrectPass123!,Warning: No match for E-Mail Address and/or Password.
+empty_credentials,,,Warning: No match for E-Mail Address and/or Password.
